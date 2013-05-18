@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CGAauthentication">
+</Property><Property Name="解决方案文件" Value="E:\WebWork\CGA\CGAauthentication\CGAauthentication\CGAauthentication.sln">
+</Property><Property Name="Date" Value="2011年12月23日">
+</Property><Property Name="Time" Value="21:47">
+</Property></Properties><Event ErrorLevel="2" Project="E:\webwork\CGAauthentication\" Source="..\..\..\CGAauthentication\" Description="无法打开网站“E:\webwork\CGAauthentication”。 网站“E:\webwork\CGAauthentication”不存在。">
+</Event><Event ErrorLevel="0" Project="" Source="CGAauthentication.sln" Description="成功转换解决方案">
+</Event><Event ErrorLevel="3" Project="" Source="CGAauthentication.sln" Description="Converted">
+</Event></UpgradeLog>

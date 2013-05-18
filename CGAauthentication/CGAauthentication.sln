@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "CGAauthentication", "E:\webwork\CGAauthentication\", "{677A51B9-AD01-47AA-ABD7-C1E25989891C}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/CGAauthentication"
+		Debug.AspNetCompiler.PhysicalPath = "E:\webwork\CGAauthentication\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\CGAauthentication\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/CGAauthentication"
+		Release.AspNetCompiler.PhysicalPath = "E:\webwork\CGAauthentication\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\CGAauthentication\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "19292"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{677A51B9-AD01-47AA-ABD7-C1E25989891C}.Debug|.NET.ActiveCfg = Debug|.NET
+		{677A51B9-AD01-47AA-ABD7-C1E25989891C}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
